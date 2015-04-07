@@ -1,0 +1,7 @@
+d�p�t github : jreziga
+Service key : jrkeasypagination
+Service class : JRKEasyPagination
+yml root : jrk_easypagination
+namespace: JRK
+namebundle : EasyPaginationBundle
+nameclass : JRKEasyPaginationBundle
