@@ -1,6 +1,6 @@
 <?php
 
-namespace Jrk\Dailyfy\CoreBundle\Services;
+namespace JRK\EasyPaginationBundle\Services;
 
 use Pagerfanta\Exception\OutOfRangeCurrentPageException;
 use Symfony\Component\HttpFoundation\Response;
