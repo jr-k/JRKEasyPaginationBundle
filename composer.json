@@ -1,7 +1,7 @@
 {
     "name": "jrk/easypagination-bundle",
     "type": "symfony-bundle",
-    "description": "easypagination bundle for symfony2",
+    "description": "easypagination bundle for symfony2/3",
     "keywords": ["jrk","easypagination","pagination","pager","fanta"],
     "homepage": "http://github.com/jreziga/JRKEasyPaginationBundle",
     "license": "GNU GPL v2",
@@ -14,7 +14,7 @@
     ],
     "require": {
         "php": ">=5.3.2",
-        "symfony/framework-bundle": "2.*",
+        "symfony/framework-bundle": ">=2.0",
         "ext-curl":"*"
     },
     "autoload": {
